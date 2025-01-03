@@ -1,89 +1,119 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="페이지-1" id="lvyuOp6DfGSYLUduwq0f">
-    <mxGraphModel dx="860" dy="661" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1434" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oFoexVExsGLdTk1ixC-K-1" value="이메일" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="40" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="126" y="810" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-2" value="비밀번호" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="160" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="126" y="870" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-3" value="이름" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="290" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="160" y="940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-4" value="나이" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="414" y="90" width="100" height="40" as="geometry" />
+          <mxGeometry x="290" y="930" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-5" value="게시글 제목" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="82" y="850" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-5" value="제목" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="238" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-6" value="게시글 내용" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="198" y="850" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-6" value="내용" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="350" y="150" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-7" value="게시글 해시태그" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="310" y="850" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-7" value="어떤 게시글에&lt;div&gt;좋아요 눌렀는지&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="364" y="250" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-8" value="게시글의 카테고리" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="420" y="830" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-8" value="카테고리" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="576" y="150" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-9" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;게시글 작성자&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="182" y="710" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-9" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;작성자&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="248" y="200" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-10" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;게시글 작성시간&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="514" y="710" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-10" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;작성시간&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="356" y="200" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-11" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;게시글 좋아요 수&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="344" y="690" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-11" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;조회수&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="472" y="200" width="94" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-12" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;좋아요 게시글 아이디&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="210" y="550" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-12" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;좋아요 수&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="576" y="200" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-13" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;좋아요 작성자 아이디&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="110" y="610" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-13" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;누가 좋아요 &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;눌렀는지&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="240" y="250" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-14" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;팔로우 등록한 사용자&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="670" y="520" width="116" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-15" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;팔로우 수&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="606" y="220" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-14" value="누가 팔로우를&amp;nbsp;&lt;div&gt;했는지&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="248" y="340" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-16" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;신고한 사용자 &lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="60" y="320" width="116" height="40" as="geometry" />
+          <mxGeometry x="260" y="440" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-17" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;신고된 게시글&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="60" y="370" width="116" height="40" as="geometry" />
+          <mxGeometry x="520" y="440" width="116" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-18" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;신고 사유&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="60" y="430" width="116" height="40" as="geometry" />
+          <mxGeometry x="390" y="440" width="116" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-19" value="사용자" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="244" y="160" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-19" value="사용자(users)" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="276" y="860" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-20" value="게시글" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="374" y="760" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-21" value="해시태그" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="436" y="410" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-20" value="게시글(posts)" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-22" value="해시태그" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="428" y="340" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-23" value="해시태그 가진 글의 id" style="ellipse;whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="570" y="410" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-24" value="좋아요" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="90" y="550" width="100" height="40" as="geometry" />
+          <mxGeometry x="466" y="150" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oFoexVExsGLdTk1ixC-K-26" value="신고" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="198" y="360" width="100" height="40" as="geometry" />
+          <mxGeometry x="10" y="440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-27" value="팔로우" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
-          <mxGeometry x="506" y="530" width="100" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-27" value="팔로우(follows)" style="whiteSpace=wrap;html=1;align=center;" parent="1" vertex="1">
+          <mxGeometry x="10" y="340" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="oFoexVExsGLdTk1ixC-K-28" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;팔로우 되어진 사용자&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="630" y="570" width="116" height="40" as="geometry" />
+        <mxCell id="oFoexVExsGLdTk1ixC-K-28" value="&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;누가 팔로우를 &lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 12.845px; line-height: 17px; white-space: pre;&quot;&gt;&lt;span&gt;받았는지&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="390" y="340" width="116" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-1" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="276" y="770" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-2" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="126" y="150" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-3" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="126" y="340" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-4" value="id" style="ellipse;whiteSpace=wrap;html=1;align=center;fontStyle=4;" vertex="1" parent="1">
+          <mxGeometry x="136" y="440" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-5" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_Hn1qOYmi_38xupR8LgN-1" target="oFoexVExsGLdTk1ixC-K-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="830" as="sourcePoint" />
+            <mxPoint x="540" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFoexVExsGLdTk1ixC-K-1" target="oFoexVExsGLdTk1ixC-K-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="328" y="820" as="sourcePoint" />
+            <mxPoint x="320" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-7" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFoexVExsGLdTk1ixC-K-2" target="oFoexVExsGLdTk1ixC-K-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="840" as="sourcePoint" />
+            <mxPoint x="286" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-8" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFoexVExsGLdTk1ixC-K-3" target="oFoexVExsGLdTk1ixC-K-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="236" y="900" as="sourcePoint" />
+            <mxPoint x="270" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_Hn1qOYmi_38xupR8LgN-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="oFoexVExsGLdTk1ixC-K-4" target="oFoexVExsGLdTk1ixC-K-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="952" as="sourcePoint" />
+            <mxPoint x="286" y="910" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
